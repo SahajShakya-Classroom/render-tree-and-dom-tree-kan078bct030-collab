@@ -1,0 +1,55 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.days{
+  display: flex;
+  width: 100%;
+}
+
+.day1{
+  padding: 25px;
+  margin: 25px;
+  background-color: rgb(128, 21, 21);
+  text-align: center;
+  
+}
+.day2{
+  padding: 25px;
+  margin: 25px;
+  background-color: rgb(128, 21, 21);
+  text-align: center;
+}
+.day3{
+  padding: 25px;
+  margin: 25px;
+  background-color: rgb(128, 21, 21);
+  text-align: center;
+}
+.day4{
+  padding: 25px;
+  margin: 25px;
+  background-color: rgb(128, 21, 21);
+  text-align: center;
+}
+.day5{
+  padding: 25px;
+  margin: 25px;
+  background-color: rgb(128, 21, 21);
+  text-align: center;
+}
+.day6{
+  padding: 25px;
+  margin: 25px;
+  background-color: rgb(128, 21, 21);
+  text-align: center;
+}
+.day7{
+  padding: 25px;
+  margin: 25px;
+  background-color: rgb(128, 21, 21);
+  text-align: center;
+}
